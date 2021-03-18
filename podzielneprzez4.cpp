@@ -1,0 +1,1 @@
+Liczby podzielne przez 4 z zakresu 0-100: 
